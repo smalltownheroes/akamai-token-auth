@@ -1,0 +1,27 @@
+{
+  "name": "akamai-token-auth",
+  "version": "0.0.1",
+  "description": "generate short lived token to access akamai media",
+  "main": "index",
+  "scripts": {
+    "test": "mocha test/akamai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/smalltownheroes/avg.git"
+  },
+  "author": "Ilja Strobbe <ilja@smalltownheroes.be>",
+  "bugs": {
+    "url": "https://github.com/smalltownheroes/akamai-token-auth/issues"
+  },
+  "devDependencies": {
+    "chai": "~4.1.2",
+    "mocha": "~3.5.3"
+  },
+  "keywords": [
+    "akamai",
+    "token",
+    "auth"
+  ],
+  "dependencies": {}
+}
