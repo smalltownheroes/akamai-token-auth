@@ -1,6 +1,6 @@
 {
   "name": "akamai-token-auth",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "generate short lived token to access akamai media",
   "main": "index",
   "scripts": {
