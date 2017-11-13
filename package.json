@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/smalltownheroes/avg.git"
+    "url": "git://github.com/smalltownheroes/akamai-token-auth.git"
   },
   "author": "Ilja Strobbe <ilja@smalltownheroes.be>",
   "bugs": {
